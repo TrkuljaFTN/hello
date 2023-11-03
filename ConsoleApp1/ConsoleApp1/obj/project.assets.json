@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\fakultet\\OISISI\\test\\hello\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\fakultet\\OISISI\\test\\klon\\hello\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\fakultet\\OISISI\\test\\hello\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\fakultet\\OISISI\\test\\klon\\hello\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\trkul\\.nuget\\packages\\",
-      "outputPath": "D:\\fakultet\\OISISI\\test\\hello\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\fakultet\\OISISI\\test\\klon\\hello\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
